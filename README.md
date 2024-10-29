@@ -1,4 +1,4 @@
-# 👋 [Welcome to my GitHub Page "Pham Thi Thanh Thuy"](https://github.com/thuyptt610)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=008080&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+Page;Hi+There+!;I'm+Ph%E1%BA%A1m+Th%E1%BB%8B+Thanh+Th%C3%BAy)](https://git.io/typing-svg)
 
